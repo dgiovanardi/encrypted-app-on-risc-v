@@ -2,7 +2,7 @@
 
 ![Executable](images/screenshot.jpg)
 
-This repository houses a RV32I emulator which execute RSA encrypted code.
+This repository houses a RV32I emulator which executes RSA encrypted code.
 
 ball.c is the source code of program used in visualizer.
 
