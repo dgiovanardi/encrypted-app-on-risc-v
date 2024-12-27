@@ -10,7 +10,7 @@ Take a look of [original repo](https://github.com/dgiovanardi/simulation-on-risc
 
 ## Concept (in data centers or cloud environments)
 
-Send (execute) an secured code to a specific core in a cluster. Encryption is done by asymmetric algorithm. No one except target processor MMU can decrypt the code because it is the unique holder of the private key.
+Send (execute) a secured code to a specific core in a cluster. Encryption is done by asymmetric algorithm. No one except target processor MMU can decrypt the code because it is the unique holder of the private key.
 
 ## Workflow
 
